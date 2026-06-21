@@ -8,7 +8,7 @@ Exploring financial markets, knowledge systems, and software through curiosity-d
 
 <p align="left">
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Dhruvil-8&color=black&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dhruvil-8&color=000000&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="left">
