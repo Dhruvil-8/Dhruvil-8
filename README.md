@@ -8,13 +8,21 @@ Exploring financial markets, knowledge systems, and software through curiosity-d
 
 <p align="left">
   <!-- Visitor Counter -->
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDhruvil-8&count_bg=%23000000&title_bg=%23000000&title=views&edge_flat=true" alt="Views"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Dhruvil-8&color=black&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="left">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvil-8&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Dhruvil's GitHub Stats" height="150" />
+  <!-- General Stats Card (Adapts to Light/Dark background) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dhruvil-8&show_icons=true&theme=transparent&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=2e2e2e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dhruvil-8&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=e4e4e4" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhruvil-8&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=e4e4e4" alt="Dhruvil's GitHub Stats" height="150" />
+  </picture>
   &nbsp;&nbsp;
-  <!-- Top Languages Card (Hiding Jupyter Notebook) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-8&layout=compact&hide=Jupyter%20Notebook&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Dhruvil's Top Languages" height="150" />
+  <!-- Top Languages Card (Adapts to Light/Dark background, hides Jupyter Notebook) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-8&layout=compact&hide=Jupyter%20Notebook&theme=transparent&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=2e2e2e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-8&layout=compact&hide=Jupyter%20Notebook&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=e4e4e4" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-8&layout=compact&hide=Jupyter%20Notebook&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=e4e4e4" alt="Dhruvil's Top Languages" height="150" />
+  </picture>
 </p>
