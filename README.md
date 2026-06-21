@@ -7,11 +7,6 @@ Exploring financial markets, knowledge systems, and software through curiosity-d
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Dhruvil-8&color=000000&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="left">
   <!-- General Stats Card (Adapts to Light/Dark background) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dhruvil-8&show_icons=true&theme=transparent&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=2e2e2e" />
